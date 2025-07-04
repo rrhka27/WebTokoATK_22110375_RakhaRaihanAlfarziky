@@ -5,6 +5,7 @@ Proyek ini adalah sistem **manajemen toko alat tulis kantor (ATK)** berbasis web
 ## ✨ Fitur Utama
 
 -  Login
+-  Logout
 -  CRUD Data User
 -  CRUD Data Barang
 -  CRUD Sales
