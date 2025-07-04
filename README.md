@@ -16,13 +16,10 @@ Proyek ini adalah sistem **manajemen toko alat tulis kantor (ATK)** berbasis web
 
 ## 📸 Screenshot
 
-Halaman Login
 ![Screenshot 2025-07-04 140227](https://github.com/user-attachments/assets/d74dbce0-a3a6-480b-b284-ea88d9a9f7ed)
 
-Halaman Home
 ![Screenshot 2025-07-04 140311](https://github.com/user-attachments/assets/a0aa511c-34d7-40ea-842b-f3834f5bd4ec)
 
-Halaman Data User
 ![Screenshot 2025-07-04 140332](https://github.com/user-attachments/assets/d6bbf71a-fc7c-4388-8475-6a832578594c)
 
 ![Screenshot 2025-07-04 140348](https://github.com/user-attachments/assets/fee15950-3c4f-4286-ab17-e8ac2a564045)
